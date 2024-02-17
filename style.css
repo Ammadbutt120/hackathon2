@@ -1,0 +1,21 @@
+.nav{
+    background-color: darkblue;
+    /* list-style: none; */
+}
+.margin{
+    margin-left: 580px;
+}
+.nav2{
+    /* background-color: blue; */
+}
+.box{
+    list-style: none;
+}
+.head{
+    font-size: 400%;
+}
+.banner{
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+}
